@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530524500487",
+    "firebase_url": "https://singloginfirebase.firebaseio.com",
+    "project_id": "singloginfirebase",
+    "storage_bucket": "singloginfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530524500487:android:601391cca98446c998f0a2",
+        "android_client_info": {
+          "package_name": "com.example.singloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530524500487-58pn5tpa1u5rcc656drp5kl9il7k02c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.singloginfirebase",
+            "certificate_hash": "66e84416615bddd3d2a28b143cab6dec6eed04f3"
+          }
+        },
+        {
+          "client_id": "530524500487-ulp70540e5s5ck2hcume2b95du1t2p3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTgTnPfHK3RcXA6VfyXYK5W_4hWla4pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530524500487-ulp70540e5s5ck2hcume2b95du1t2p3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
